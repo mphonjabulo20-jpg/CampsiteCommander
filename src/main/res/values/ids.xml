@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtItem" type="id" />
+    <item name="edtCategory" type="id" />
+    <item name="edtComments" type="id" />
+    <item name="edtQuality" type="id" />
+    <item name="btnAdd" type="id" />
+    <item name="btnSecond" type="id" />
+    <item name="btnExit" type="id" />
+    <item name="txtOutput" type="id" />
+    <item name="btnQuantity" type="id" />
+    <item name="btnBack" type="id" />
+    <item name="btnOutput" type="id" />
+    <item name="btnDisplay" type="id" />
+</resources>
